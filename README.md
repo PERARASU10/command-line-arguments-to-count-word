@@ -45,6 +45,7 @@ print("Number of words in a file",count)
 
 ![image](https://github.com/PERARASU10/command-line-arguments-to-count-word/assets/118348589/9235251f-adf5-4981-a4a5-44f4daddf135)
 
+![image](https://github.com/PERARASU10/command-line-arguments-to-count-word/assets/118348589/f78c7f4c-54c8-438c-bfc0-1d5b77e0df7c)
 
 
 ## RESULT:
